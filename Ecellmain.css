@@ -68,7 +68,7 @@ text-align: center;
 }
 
 .abtecell{
-background-color: #bbdefb;
+background-color: #e3f2fd;
 }
 
 .abtesummit{
@@ -83,8 +83,12 @@ font-size: 30px;
 font-size: 30px;
 }
 
+.esummitht{
+  background-color: #bbdefb;
+}
+
 .card{
-background-color: #e8eaf6;
+background-color: #e0e0e0;
 }
 
 .mySlides {display:none}
@@ -126,7 +130,7 @@ hr {
 }
 
 .registerbtn {
-  background-color: #4CAF50;
+  background-color: #757575;
   color: white;
   padding: 16px 20px;
   margin: 8px 0;
@@ -144,7 +148,4 @@ a {
   color: dodgerblue;
 }
 
-.signin {
-  background-color: #f1f1f1;
-  text-align: center;
-}
+
