@@ -23,7 +23,7 @@ text-align: center;
 
 .dropdown {
   float: left;
-  
+  overflow: hidden;
 }
 
 .dropdown .dropbtn {
